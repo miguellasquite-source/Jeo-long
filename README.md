@@ -1,2 +1,2 @@
 # Jeo-long
-Jeo ng pbb
+Jeo ng BSIT - 4A
